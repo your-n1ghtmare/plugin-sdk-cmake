@@ -1,0 +1,8 @@
+C:/Users/PC/Desktop/ultrawh/lib/plugin-sdk/out/build/x86-Release/CMakeFiles/edit_cache.dir
+C:/Users/PC/Desktop/ultrawh/lib/plugin-sdk/out/build/x86-Release/CMakeFiles/rebuild_cache.dir
+C:/Users/PC/Desktop/ultrawh/lib/plugin-sdk/out/build/x86-Release/shared/CMakeFiles/shared.dir
+C:/Users/PC/Desktop/ultrawh/lib/plugin-sdk/out/build/x86-Release/shared/CMakeFiles/edit_cache.dir
+C:/Users/PC/Desktop/ultrawh/lib/plugin-sdk/out/build/x86-Release/shared/CMakeFiles/rebuild_cache.dir
+C:/Users/PC/Desktop/ultrawh/lib/plugin-sdk/out/build/x86-Release/plugin_sa/CMakeFiles/gtasa.dir
+C:/Users/PC/Desktop/ultrawh/lib/plugin-sdk/out/build/x86-Release/plugin_sa/CMakeFiles/edit_cache.dir
+C:/Users/PC/Desktop/ultrawh/lib/plugin-sdk/out/build/x86-Release/plugin_sa/CMakeFiles/rebuild_cache.dir

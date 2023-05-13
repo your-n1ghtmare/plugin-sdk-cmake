@@ -1,0 +1,101 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"jsonFile" : "directory-.-Release-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "shared",
+					"jsonFile" : "directory-shared-Release-e58ce994abda34095da3.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "shared",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "plugin_sa",
+					"jsonFile" : "directory-plugin_sa-Release-1f410516503484b730fe.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "plugin_sa",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2
+					],
+					"name" : "plugin-sdk",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 2,
+					"id" : "gtasa::@1d39d756608d4876bfc2",
+					"jsonFile" : "target-gtasa-Release-d9375deeba2396c8dcfe.json",
+					"name" : "gtasa",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "shared::@b1f7512934231ee3f25d",
+					"jsonFile" : "target-shared-Release-7de7bb5530b6515ad55b.json",
+					"name" : "shared",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/PC/Desktop/ultrawh/lib/plugin-sdk/out/build/x86-Release",
+		"source" : "C:/Users/PC/Desktop/ultrawh/lib/plugin-sdk"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
